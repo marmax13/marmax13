@@ -1,4 +1,4 @@
-Hi 👋 My name is Marat Meiram
+Hi 👋 My name is Marat
 =============================
 
 Junior .Net Developer
