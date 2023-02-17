@@ -1,4 +1,4 @@
-Hi 👋 My name is Marat Meiram
+Hi 👋 My name is Marat
 =============================
 
 Junior .Net Developer
@@ -7,7 +7,9 @@ Junior .Net Developer
 I've been learning to code for 1.5 years, after switching careers. I started with HTML, but have really found a passion for backend development in C#.
 
 *   🌍  I'm based in Almaty
-*   ✉️  You can contact me at [sd@kulisa.kz](mailto:sd@kulisa.kz)### Skills 
+*   ✉️  You can contact me at [sd@kulisa.kz](mailto:sd@kulisa.kz)
+
+### Skills 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
